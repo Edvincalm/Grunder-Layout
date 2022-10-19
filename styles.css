@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: hsl(160, 30%, 70%);
+}
+
+article, 
+footer {
+    background-color: lightskyblue;
+}
+
+
+
+article {
+    padding: 0 10px;
+}
+
+
+
+main {
+    display: flex;
+    gap: 8px;
+}
+
+
+
+a {
+
+     text-decoration: none;
+     color: darkgreen;
+}
+
+
+
+a:hover {
+    text-decoration: underline;
+}
